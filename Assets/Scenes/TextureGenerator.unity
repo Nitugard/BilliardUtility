@@ -194,10 +194,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 249196382}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 378232e39118676479597a42b31c423f, type: 3}
+  m_Script: {fileID: 11500000, guid: 4c956fad6abe6aa44b1b4cf6ed919b34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _backgroundColor: {r: 0.97, g: 1, b: 0.99, a: 1}
+  _backgroundColor: {r: 0.996931, g: 1, b: 0.9103774, a: 1}
   _colors:
   - {r: 0.99, g: 0.78, b: 0.3, a: 1}
   - {r: 0.15, g: 0.34, b: 0.68, a: 1}
@@ -207,7 +207,7 @@ MonoBehaviour:
   - {r: 0.18, g: 0.62, b: 0.21, a: 1}
   - {r: 0.77, g: 0.19, b: 0.18, a: 1}
   - {r: 0.2, g: 0.2, b: 0.22, a: 1}
-  _renderTexture: {fileID: 8400000, guid: 029b8c7128cbee34987a115829660e9b, type: 2}
+  _renderTexture: {fileID: 8400000, guid: d160242ee0fc81a49b1e65363a1c8ee0, type: 2}
 --- !u!81 &249196385
 AudioListener:
   m_ObjectHideFlags: 0
